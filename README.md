@@ -87,4 +87,4 @@ Maselaelo Glen – Final-Year Software Engineering Student
 
 ## 📝 License
 
-This project is open-source and available for 
+This project is open-source. Contributions, suggestions, and forks are welcome.
