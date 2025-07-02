@@ -1,0 +1,8 @@
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\bin\Debug\BicycleFactory.exe.config
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\bin\Debug\BicycleFactory.exe
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\bin\Debug\BicycleFactory.pdb
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\obj\Debug\BicycleFactory.csproj.AssemblyReference.cache
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\obj\Debug\BicycleFactory.csproj.CoreCompileInputs.cache
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\obj\Debug\BicycleFactory.exe
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\obj\Debug\BicycleFactory.pdb
+C:\Users\USER.DESKTOP-R2ESL0M\Desktop\IRUD301 HOME\BicycleFactory\BicycleFactory\obj\Debug\BicycleFactory.exe.config
